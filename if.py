@@ -1,3 +1,5 @@
+# This is a comment
+
 x = int(raw_input("Please enter an integer: "))
 
 if x < 0:
